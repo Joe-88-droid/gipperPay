@@ -11,6 +11,10 @@ body {
   border-width: 0;
 }
 
+/* .main__container {
+ display: flex;
+} */
+
 .wallet__section{
   /* margin: auto auto; */
   /* margin-top: 0rem; */
@@ -25,4 +29,15 @@ body {
     margin-top: 2.55rem;
     
   }
+}
+
+
+.navbar__component{
+ display: flex;
+  justify-content: space-between;
+}
+
+.payment__card{
+
+  margin: auto;
 }
