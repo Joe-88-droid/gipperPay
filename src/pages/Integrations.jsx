@@ -192,7 +192,6 @@ const Integrations = () => {
          
         </div>
     
-    
         
         <div className="basis-1/2 developer__section m-[1.25rem]">
           <div className="top-0 left-0 bg-white w-full flex flex-row py-[1.25rem] px-[2.5rem] box-border items-center justify-between text-center text-white">
@@ -201,7 +200,7 @@ const Integrations = () => {
                 className=""
                 onClick={paymentPagePopUp}
               >{`Send & Receive`}</div>
-            </div>
+    
           </div>
           <div className="top-[5.56rem] left-[19.38rem] text-[1.75rem] font-medium">
             Developer
